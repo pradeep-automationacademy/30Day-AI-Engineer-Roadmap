@@ -1,4 +1,6 @@
-# 🧠 30-Day AI Engineer Roadmap
+# 🧠 30-Day AI Engineer Roadmap  
+![AI Engineer Roadmap](https://img.shields.io/badge/AI_Engineer-Roadmap-blueviolet?style=for-the-badge&logo=github)  
+![Built with Bash](https://img.shields.io/badge/Built%20with-Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
 A structured, hands-on roadmap to become an AI Engineer in 30 days — focused on Git, Python, LLMs, agents, and automation.
 
